@@ -1,12 +1,12 @@
 # About
 
 ## Tech Stack
-- Programming Languages: Python, JavaScript, C++
+- Programming Languages: Python, JavaScript
 - Frameworks: Django, React
-- Tools: Git, Docker, Jenkins
+- Tools: Git, Docker, Visual Studio Code
 
 ## Domain Knowledge
-- Machine Learning
+- Software Development 
 - Web Development
 - Data Analysis
 
@@ -18,4 +18,4 @@
 ## Contact Information
 - Gmail: your-email@gmail.com
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- Portfolio: [Your Portfolio](https://yourportfolio.com)
+- Portfolio: [Your Portfolio](https://portfolio-ko-delta.vercel.app/)
