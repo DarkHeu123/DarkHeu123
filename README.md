@@ -16,6 +16,6 @@
 - Data Visualization Tool
 
 ## Contact Information
-- Gmail: your-email@gmail.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- Portfolio: [Your Portfolio](https://portfolio-ko-delta.vercel.app/)
+- Gmail: johannromblon123123@gmail.com
+- LinkedIn: (https://www.linkedin.com/in/yourprofile)
+- Portfolio: (https://portfolio-ko-delta.vercel.app/)
